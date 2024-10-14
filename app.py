@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<html><body><h1>Flask Deployment sucessful chenged</h1></body></html>\n"
+    return "<html><body><h1>Flask Deployment successful changed</h1></body></html>\n"
